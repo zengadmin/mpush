@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>fpush</name>
+	<comment></comment>
+	<projects>
+		<project>fpush-api</project>
+		<project>fpush-cache</project>
+		<project>fpush-common</project>
+		<project>fpush-plat-network</project>
+		<project>fpush-route-network</project>
+		<project>fpush-tools</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+	</natures>
+</projectDescription>

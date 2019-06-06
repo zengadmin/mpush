@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fpush.iml" filepath="$PROJECT_DIR$/fpush.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fpush-api/fpush-api.iml" filepath="$PROJECT_DIR$/fpush-api/fpush-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fpush-cache/fpush-cache.iml" filepath="$PROJECT_DIR$/fpush-cache/fpush-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fpush-common/fpush-common.iml" filepath="$PROJECT_DIR$/fpush-common/fpush-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fpush-plat-network/fpush-plat-network.iml" filepath="$PROJECT_DIR$/fpush-plat-network/fpush-plat-network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fpush-route-network/fpush-route-network.iml" filepath="$PROJECT_DIR$/fpush-route-network/fpush-route-network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fpush-tools/fpush-tools.iml" filepath="$PROJECT_DIR$/fpush-tools/fpush-tools.iml" />
+    </modules>
+  </component>
+</project>

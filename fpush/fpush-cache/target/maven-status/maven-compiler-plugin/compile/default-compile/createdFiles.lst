@@ -1,0 +1,6 @@
+com\fpush\cache\redis\manager\RedisManager.class
+com\fpush\cache\redis\manager\RedisCacheManagerFactory.class
+com\fpush\cache\redis\RedisException.class
+com\fpush\cache\redis\SerializeUtil.class
+com\fpush\cache\redis\RedisUtil.class
+com\fpush\cache\redis\connection\RedisConnectionFactory.class
