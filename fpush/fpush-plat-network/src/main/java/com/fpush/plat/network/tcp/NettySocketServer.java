@@ -1,15 +1,11 @@
 package com.fpush.plat.network.tcp;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-
 import com.fpush.common.api.cmd.Command;
 import com.fpush.common.api.message.MessageDispatcher;
 import com.fpush.common.handler.BindUserHandler;
 import com.fpush.common.handler.PushHandler;
 import com.fpush.common.server.AbstractServer;
 import com.fyqz.tools.utils.Utils;
-
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.buffer.PooledByteBufAllocator;
 import io.netty.channel.ChannelFuture;
@@ -19,6 +15,8 @@ import io.netty.channel.epoll.EpollEventLoopGroup;
 import io.netty.channel.epoll.EpollServerSocketChannel;
 import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.nio.NioServerSocketChannel;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 public class NettySocketServer extends AbstractServer {
 	private static final Logger LOGGER = LoggerFactory.getLogger(NettySocketServer.class);

@@ -10,4 +10,7 @@ public class PlatMain {
 		m.init();
 		m.start();
 	}
+	public static void test(){
+
+	}
 }
